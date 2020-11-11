@@ -1,0 +1,5 @@
+/.idea
+.DS_Store
+/conf/*.ini
+/src/runtime/logs/*
+/src/runtime/upload/images/*
