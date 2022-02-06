@@ -3,3 +3,4 @@
 /conf/*.ini
 /src/runtime/logs/*
 /src/runtime/upload/images/*
+go.sum

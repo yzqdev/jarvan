@@ -2,8 +2,8 @@ package util
 
 import (
 	"errors"
+	"github.com/golang-jwt/jwt"
 	"jarvan/src/pkg/setting"
-	"github.com/dgrijalva/jwt-go"
 	"time"
 )
 
